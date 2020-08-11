@@ -5,4 +5,4 @@ Important infor regarding this tutorial
 
 ### How To's
 - [20 VS Code Shortcuts for Faster Coding](https://medium.com/better-programming/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d)
-- [Countries Select Option List](https://gist.github.com/psamaan/6187095) or use my own copy denerated by original author click [here.](#)
+- [Countries Select Option List](https://gist.github.com/psamaan/6187095) or use my own copy denerated by original author click [here.](https://github.com/gowebUSA/HarvardX-Python-JavaScript/blob/master/Code-Snippet/Country-Select-Option-List)
