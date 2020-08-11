@@ -1,4 +1,4 @@
-Country Select option List
+Country Select option List - Credit to: https://gist.github.com/psamaan
 
 <select name="Country"> 
 <option value="" selected="selected">Select Country</option> 
